@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Crickscore</string>
+    <string name="Team_name">Ind vs Pak</string>
+    <string name="Player1_name">Dhoni</string>
+    <string name="Player2_name">Kohli</string>
+    <string name="p1score1">6</string>
+    <string name="p1score2">4</string>
+    <string name="p1score3">3</string>
+    <string name="p1score4">2</string>
+    <string name="p1score5">1</string>
+    <string name="p1score6">0</string>
+    <string name="p1score7">W</string>
+    <string name="p2score1">6</string>
+    <string name="Totalrun">352/4</string>
+    <string name="opponent_over">M Siraj 3 22 0 1</string>
+    <string name="totalover">Overs: 22.5</string>
+    <string name="player1_currentscore">24(5)</string>
+    <string name="player2_currentscore">30(5)</string>
+
+
+
+
+
+</resources>
